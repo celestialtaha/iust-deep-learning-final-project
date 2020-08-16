@@ -1,9 +1,9 @@
 # iust-deep-learning-final-project
-Single image super resolution
+## Single Image Super Resolution - Improvement over SRGAN
 
 Course website https://iust-deep-learning.github.io/982
 
-Dataset links
+## Dataset links
 
 DIV2K Train LR: http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_LR_bicubic_X4.zip
 
